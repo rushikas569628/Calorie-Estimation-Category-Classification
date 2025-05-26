@@ -1,5 +1,3 @@
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/b7LCFJdp)
 # Calorie Estimation & Category Classification of McDonald's Menu Items
 ## 1. Project Overview
 This repository contains a two-part machine learning pipeline that tackles calorie estimation and menu-item classification for McDonald’s menu. The initial goals were:
